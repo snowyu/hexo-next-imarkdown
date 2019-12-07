@@ -5,7 +5,7 @@ const markdownIt = require('./markdown-it')
 const indexOfPlugin = require('./markdown-it/indexof-plugin')
 const getPlugins = require('./markdown-it/get-plugins');
 
-const IMD_VER = '0.4.1'
+const IMD_VER = '0.4.2'
 const iMarkdownBaseName = `imarkdown-${IMD_VER}-min`
 
 let opts = getPlugins(utils.defaultConfigFile('imarkdown', 'default.yaml'))
