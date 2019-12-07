@@ -1,0 +1,12 @@
+render:
+  langPrefix: ''
+  html: true
+  xhtmlOut: false
+  breaks: true
+  linkify: true
+  typographer: true
+  quotes: '“”‘’'
+anchors:
+  level: 1
+  collisionSuffix: ''
+  tone: false

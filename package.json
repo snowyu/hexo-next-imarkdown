@@ -1,0 +1,38 @@
+{
+  "name": "hexo-next-imarkdown",
+  "version": "0.1.4",
+  "description": "interactive markdown render for Hexo with Theme-Next",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snowyu/hexo-next-imarkdown.git"
+  },
+  "author": "Riceball LEE <snowyu.lee@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snowyu/hexo-next-imarkdown/issues"
+  },
+  "homepage": "https://github.com/snowyu/hexo-next-imarkdown#readme",
+  "dependencies": {
+    "hexo-cake-utils": "^1.1.0",
+    "highlight.js": "^9.16.2",
+    "markdown-it": "^10.0.0",
+    "markdown-it-abbr": "^1.0.4",
+    "markdown-it-cjk-breaks": "^1.1.2",
+    "markdown-it-container": "^2.0.0",
+    "markdown-it-deflist": "^2.0.3",
+    "markdown-it-emoji": "^1.4.0",
+    "markdown-it-footnote": "^3.0.1",
+    "markdown-it-highlight-i": "^0.1.0",
+    "markdown-it-interactive": "^0.1.0",
+    "markdown-it-ins": "^3.0.0",
+    "markdown-it-mark": "^3.0.0",
+    "markdown-it-math": "^4.1.1",
+    "markdown-it-sub": "^1.0.0",
+    "markdown-it-sup": "^1.0.0",
+    "limax": "^2.0.0"
+  }
+}
